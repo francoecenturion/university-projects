@@ -1,16 +1,18 @@
-# University projects
+# 🎓 University projects
+Welcome to my university software development projects portfolio. Here, you will find a collection of projects that I have undertaken in collaboration with my classmates during my academic journey.
 
-## TP Sistemas Operativos
+## [TP Sistemas Operativos](https://github.com/francoecenturion/university-projects/tree/main/sistemas-operativos-tp)
+
+The project comprises an operating-system-like application made up of five interconnected modules. These modules communicate via sockets, simulating the behavior of an actual operating system by performing tasks such as executing processes, creating and deleting files, and monitoring memory usage.
 
 
+## [TP Diseño de Sistemas](https://github.com/francoecenturion/university-projects/tree/main/disenio-de-sistemas-tp)
 
-## TP Diseño de Sistemas
+This project consists of a full-stack web application designed to serve as a support system for communities of people with reduced mobility. The application allows real-time monitoring of the status of various services offered in public establishments, such as escalators and elevators in train stations.
 
-Este proyecto consiste en una aplicación web fullstack diseñada para servir como un sistema de apoyo a comunidades de personas con movilidad reducida. La aplicación permite el monitoreo en tiempo real del estado de diversas prestaciones ofrecidas en establecimientos públicos, tales como escaleras mecánicas y ascensores en estaciones de trenes.
+The front end of the application is built with HTML, CSS, and JavaScript, providing an intuitive and accessible user interface. On the other hand, the back end is developed in Java. The database used is PostgreSQL, managed via Hibernate for object-relational mapping. Additionally, Handlebars is used as the template engine to dynamically render content on the server.
 
-El front-end de la aplicación está construido con HTML, CSS y JavaScript, proporcionando una interfaz de usuario intuitiva y accesible. Por otro lado, el back-end está desarrollado en Java. La base de datos utilizada es PostgreSQL, gestionada mediante Hibernate para el mapeo objeto-relacional. Además, se utiliza Handlebars como motor de plantillas para renderizar dinámicamente el contenido en el servidor.
-
-El sistema también se integra con diversas APIs para ampliar su funcionalidad y ofrecer una experiencia de usuario más completa. Una de las integraciones clave es con la API Georef, que proporciona información detallada sobre las provincias, departamentos y municipios de Argentina. Esto permite a la aplicación ofrecer datos precisos y actualizados sobre la ubicación de las prestaciones públicas
+The system also integrates with various APIs to enhance its functionality and offer a more comprehensive user experience. One of the key integrations is with the Georef API, which provides detailed information about the provinces, departments, and municipalities of Argentina. This allows the application to offer precise and up-to-date data on the location of public services.
 
 
 
